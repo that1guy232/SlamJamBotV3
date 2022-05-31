@@ -1,0 +1,5 @@
+settlement_name_table = ['Aegis', 'Felicity', 'Moirai', 'Rockhome', 'Altair', 'Florin', 'Mudd', 'Rust', 'Altura', 'Forlorn', 'Neoma', 'Sagan', 'Amity', 'Forsaken', 'Nerio', 'Sanctity', 'Apex', 'Freya', 'Nova', 'Selena', 'Apogee', 'Glimmer', 'Nyx', 'Sepulcher', 'Argosy', 'Gloam', 'Osseus', 'Sigil', 'Astra', 'Hearth', 'Paradox', 'Silvana', 'Aurora', 'Helia', 'Paragon', 'Sirius', 'Beacon', 'Hypatia', 'Paxton', 'Sisyphus', 'Brink', 'Hyperion', 'Perchance', 'Solitude', 'Bulwark', 'Janus', 'Pinnacle', 'Spire', 'Burnell', 'Karma', 'Polaris',
+                         'Starfall', 'Burrow', 'Kepler', 'Portent', 'Summit', 'Concord', 'Koshiba', 'Prism', 'Tranquility', 'Crux', 'Lagrange', 'Providence', 'Tyson', 'Deadrock', 'Larissa', 'Purgatory', 'Unity', 'Deception', 'Lasthope', 'Rampart', 'Utopia', 'Elysium', 'Lastport', 'Ramshackle', 'Vega', 'Enigma', 'Legacy', 'Redemption', 'Vesper', 'Erebus', 'Lodestar', 'Redhaven', 'Wayward', 'Eris', 'Luminus', 'Relic', 'Welkin', 'Evenfall', 'Lyra', 'Reprise', 'Wellspring', 'Eventide', 'Marrow', 'Reverie', 'Weyland', 'Farpoint', 'Meridian', 'Rhiannon', 'Wreck']
+
+
+
